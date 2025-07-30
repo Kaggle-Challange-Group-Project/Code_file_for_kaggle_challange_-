@@ -14,7 +14,7 @@ This project was developed as part of a group effort to participate in a Kaggle 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook / Google Colab
 - Packages:
   - numpy
