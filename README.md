@@ -64,7 +64,7 @@ Update the file paths as necessary if you are running locally rather than on Col
 
 ## Authors
 
-- *Add your team names here*
+- Faraz Ahmed
 
 ## Acknowledgments
 
