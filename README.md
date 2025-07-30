@@ -64,7 +64,13 @@ Update the file paths as necessary if you are running locally rather than on Col
 
 ## Authors
 
-- Faraz Ahmed
+- Abdul Bari    22092619
+- Faraz Ahmed   22093522
+- Hamza Bashir Qureshi    22084845
+- Muhammad Junaid Hashmi    22057665   
+- Muhammad Azeem    22095075
+- Muhammad Junaid Hashmi    22057665
+- Rana Sana ULLAH Khan Essa khailvi    22066704
 
 ## Acknowledgments
 
