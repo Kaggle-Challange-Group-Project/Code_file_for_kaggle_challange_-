@@ -71,6 +71,7 @@ Update the file paths as necessary if you are running locally rather than on Col
 - Muhammad Azeem    22095075
 - Muhammad Junaid Hashmi    22057665
 - Rana Sana ULLAH Khan Essa khailvi    22066704
+- Shahroze Hassan Gondal    22098543
 
 ## Acknowledgments
 
