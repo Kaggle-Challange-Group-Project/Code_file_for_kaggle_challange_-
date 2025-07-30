@@ -67,10 +67,10 @@ Update the file paths as necessary if you are running locally rather than on Col
 - Abdul Bari    22092619
 - Faraz Ahmed   22093522
 - Hamza Bashir Qureshi    22084845
-- Muhammad Junaid Hashmi    22057665   
+- Muhammad Ali    22027782 
 - Muhammad Azeem    22095075
 - Muhammad Junaid Hashmi    22057665
-- Rana Sana ULLAH Khan Essa khailvi    22066704
+- Sana ULLAH    22066704
 - Shahroze Hassan Gondal    22098543
 
 ## Acknowledgments
